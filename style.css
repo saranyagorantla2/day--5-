@@ -1,0 +1,19 @@
+button {
+    background-color: #4CAF50; /* Green color */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; /* Indicate clickable element */
+    
+    /* Add smooth transitions */
+    transition: 0.3s ease;
+    }
+    /* Style the button on hover */
+    button:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow on hover */
+    }
